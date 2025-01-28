@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StFPWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82adc95976531325536d713dfe596d7ce63f7484")]
 [assembly: System.Reflection.AssemblyProductAttribute("StFPWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StFPWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
