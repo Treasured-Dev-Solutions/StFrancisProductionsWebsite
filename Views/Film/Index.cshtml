@@ -1,0 +1,79 @@
+@{
+    ViewData["Title"] = "Film";
+}
+
+<div class="film-video-container">
+        <video autoplay muted loop id="publishing-bgvideo">
+            <source src="assets/videos/film-vid.mp4" type="video/mp4">
+        </video>
+        <div class="filmtext-overlay">
+            <h1 style="font-weight: bold;">FILM & TELEVISION PRODUCTION</h1>
+        </div>
+    </div>
+
+    <div class="row bg-light">
+        <div class="col-md-4 bg-light">
+            <div class="film-container">
+                <img src="assets/img/film/scripting.jpg" alt="">
+            </div>   
+        </div>
+        <div class="col-md-8 film-text">
+            <h2 class="bg-light" style="color: black;">SCRIPT DEVELOPMENT</h2>
+            <p style="text-align: center;">This is where ideas come to life. We brainstorm concepts, craft compelling scripts, and <br> 
+                create detailed storyboards to lay the foundation for your project. Whether it's a short film,<br> 
+                documentary, or feature, we ensure a clear vision is established from the start.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 bg-dark film-text">
+            <h2 class="bg-dark" style="font-style: italic; text-align: center;">PRE-PRODUCTION</h2>
+            <p style="text-align: center; color: white;">Meticulous planning is key to success. We handle casting, location scouting, scheduling, <br>
+                and assembling the perfect crew to bring your project to fruition. Every detail is mapped out <br>
+                to ensure a seamless production phase.</p>
+                <div>
+                    <a href="@Url.Action("Index", "Home")#contact" class="btn btn-one" style="text-decoration: none;outline: none; border: none;">
+                        <span style="color: #fffe07;">Set an Appointment</span>
+                    </a>
+                </div>
+        </div>
+        <div class="col-md-4 bg-dark">
+            <div class="film-container">
+                <img src="assets/img/film/pre.jpg" alt="">
+            </div> 
+        </div>
+    </div>
+
+    <div class="row bg-light">
+        <div class="col-md-4 bg-light">
+            <div class="film-container">
+                <img src="assets/img/film/prodution.jpg" alt="">
+            </div>   
+        </div>
+        <div class="col-md-8 film-text">
+            <h2 class="bg-light" style="color: black; font-style: italic; text-align: center;">PRODUCTION</h2>
+            <p style="text-align: center;">Lights, camera, action! This is where the magic happens. With state-of-the-art equipment and skilled <br>
+                professionals, we capture every moment with precision and creativity, ensuring the essence <br>
+                of your story is brought to life on screen.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 bg-dark film-text">
+            <h2 class="bg-dark" style="font-style: italic; text-align: center;">POST-PRODUCTION</h2>
+            <p style="text-align: center; color: white;">The story takes its final shape. We edit footage, add sound design, visual effects, <br>
+                and color grading to create a polished final product. Our team ensures every frame and sound <br>
+                aligns with your vision.</p>
+            
+                <div>
+                    <a href="@Url.Action("Index", "Home")#contact" class="btn btn-one" style="text-decoration: none;outline: none; border: none;">
+                        <span style="color: #fffe07;">Set an Appointment</span>
+                    </a>
+                </div>
+        </div>
+        <div class="col-md-4 bg-dark">
+            <div class="film-container">
+                <img src="assets/img/film/post.jpg" alt="">
+            </div> 
+        </div>
+    </div>

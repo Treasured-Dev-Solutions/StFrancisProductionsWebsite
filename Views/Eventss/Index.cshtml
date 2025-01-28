@@ -1,0 +1,56 @@
+@{
+    ViewData["Title"] = "Events Page";
+}
+<link rel="stylesheet" href="~/css/events.css" asp-append-version="true" />
+<br><br><br>
+<h1>WELCOME TO THE EVENTS PAGE!</h1>
+<br><br><br>
+<div class="carousel">
+    <ul class="slides">
+        <li class="slide-container">
+            <div class="slide-image">
+                <img src="assets/img/eventss/arola.jpg" alt="Arola Play">
+            </div>
+            <div class="image-details">
+                <p class="image-description">Arola play, performed by The Charmza Literary Club at The Annual 2024 Phaphama Book.</p>
+                <p class="image-caption">Captioned by: Kamogelo Mongale</p>
+            </div>
+        </li>
+        <li class="slide-container">
+            <div class="slide-image">
+                <img src="assets/img/eventss/inauguration.jpg" alt="Inauguration">
+            </div>
+            <div class="image-details">
+                <p class="image-description">The Inauguration of The Kgwatalala Chief of Mawaza, South-Western Zimbabwe, Mr. Royal Nare.</p>
+                <p class="image-caption">Captioned by: Pono Maharaswa</p>
+            </div>
+        </li>
+        <li class="slide-container">
+            <div class="slide-image">
+                <img src="assets/img/eventss/silent.jpg" alt="Silent Hunt BTS">
+            </div>
+            <div class="image-details">
+                <p class="image-description">BTS from the Film & Television Learnership project 'Silent Hunt.'</p>
+                <p class="image-caption">Captioned by: Thabang Mofolo</p>
+            </div>
+        </li>
+    </ul>
+    <div class="carousel-controls">
+        <label for="prev" class="prev-slide">&lsaquo;</label>
+        <label for="next" class="next-slide">&rsaquo;</label>
+    </div>
+    <div class="carousel-dots">
+        <span class="carousel-dot active" data-slide="0"></span>
+        <span class="carousel-dot" data-slide="1"></span>
+        <span class="carousel-dot" data-slide="2"></span>
+    </div>
+</div>
+
+<section class="upcoming-events text-center mt-5">
+    <h2>Upcoming Events</h2>
+    <img class="event-img" src="assets/img/eventss/phaphama.png" alt="Upcoming Event">
+</section>
+
+<br><br><br>
+
+<script src="~/js/site.js" asp-append-version="true"></script>

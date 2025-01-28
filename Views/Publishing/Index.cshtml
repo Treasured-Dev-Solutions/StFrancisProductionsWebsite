@@ -1,0 +1,62 @@
+@{
+    ViewData["Title"] = "Publishing";
+}
+
+<div class="row bg-dark">
+    <div class="col-md-3">
+        <br><br><br>
+        <div class="flipper-container">
+            <div class="flipper">
+                <!-- Book 1 -->
+                <div class="book front">
+                    <img src="assets/img/books/arola.jpg" alt="Book 1">
+                </div>
+                <!-- Book 2 -->
+                <div class="book back">
+                    <img src="assets/img/books/freedom.jpg" alt="Book 2">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        <br><br><br><br><br>
+        <h1 style="text-align:center; color: #fffe07;">PUBLISHING</h1>
+        <p style="text-align: center; color: white;">
+            From acquisition, editing, design and layout to marketing, distribution, and rights management,
+            <br> St Francis Productions offers a dedicated team of professionals eager to assist with all your custom publishing needs.
+            <br> Explore our portfolio to discover the exceptional work we've delivered.
+        </p>
+
+        <br>
+        <div>
+            <a href="@Url.Action("Index", "Home")#contact" class="btn btn-one" style="text-decoration: none;outline: none; border: none;">
+                <span style="color: #fffe07;">Set an Appointment</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="pub-video-container">
+    <video autoplay muted loop id="publishing-bgvideo">
+        <source src="assets/videos/publishing-vid.mp4" type="video/mp4">
+    </video>
+    <div class="pubtext-overlay">
+        <h1 style="font-weight: bolder; font-style: italic;">We publish historic & non-fictional work</h1>
+        <br><br>
+        <h4 style="color: #fffe07;">HERE ARE SOME AUTHORS WE HAVE PUBLISHED:</h4>
+        <br>
+        <div class="pub-img-gallery">
+            <div class="author-container">
+                <img src="assets/img/authors/mda.png" alt="Zakes Mda" data-author="Zakes Mda">
+                <p>Zakes Mda</p>
+            </div>
+            <div class="author-container">
+                <img src="assets/img/authors/ncube.png" alt="Fidelis M.D.M Ncube" data-author="Fidelis M.D.M Ncube">
+                <p>Fidelis M.D.M Ncube</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/site.js" asp-append-version="true"></script>

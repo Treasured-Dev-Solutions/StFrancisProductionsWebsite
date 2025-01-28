@@ -1,0 +1,121 @@
+@{
+    ViewData["Title"] = "Content";
+}
+
+<div class="film-video-container">
+        <video autoplay muted loop id="publishing-bgvideo">
+            <source src="assets/videos/content-vid.mp4" type="video/mp4">
+        </video>
+        <div class="filmtext-overlay">
+            <h1 style="font-weight: bold;">CONTENT DISTRIBUTION</h1>
+        </div>
+    </div>
+
+    <div class="row bg-dark" style="padding-left: 50px;">
+        <div class="col bg-dark"><br><br>
+            <h2 class=" bg-dark text-center">Effortless Content Distribution for Maximum Reach</h2>
+            <p class="text-center text-white">Ensure your message makes an impact with our expert content distribution services. We strategically deliver your content across digital
+            platforms, social media, and traditional channels, targeting the right audience to maximize engagement and visibility. Let us take your
+            brand to new heights with precision and effectiveness. Your content deserves to shine—connect with us today!</p><br>
+
+            <div>
+                <a href="@Url.Action("Index", "Home")#contact" class="btn btn-one" style="text-decoration: none;outline: none; border: none;">
+                    <span style="color: #fffe07;">Set an Appointment</span>
+                </a>
+            </div>
+			<br><br>
+        </div>
+		<div class="col">
+			<div class="socials-container">
+				<img src="assets/img/content/socials.png" alt="socials">
+			</div>
+			
+		</div>
+    </div>
+    
+	<div class="bg-dark">
+		<input id="scene-1" type="radio" name="scene" value="1" checked />
+	<input id="scene-2" type="radio" name="scene" value="2" />
+	<input id="scene-3" type="radio" name="scene" value="3" />
+	<input id="scene-4" type="radio" name="scene" value="4" />
+
+	<main class="site bg-light" style="margin: 0 auto;">
+		<div class="landscape">
+			<video autoplay loop muted playsinline class="background-video" style="filter: blur(1px);">
+				<source src="assets/videos/social-vid.mp4" type="video/mp4">
+			</video>
+		</div>
+		<div class="left-side">
+			<div class="page-numbers" data-total='04'>
+				<div class="page-number page-number--tens">0</div>
+				<div class="page-number page-number--ones">
+					<div>1</div>
+					<div>2</div>
+					<div>3</div>
+					<div>4</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="hero">
+			<div class="layer" data-scene="1">
+				<h1 class="heading" style="font-style: italic; font-weight: bold;">Define Your Content Themes</h1>
+			</div>
+			<div class="layer" data-scene="2">
+				<h1 class="heading" style="font-style: italic; font-weight: bold;">Understand Your Audience</h1>
+			</div>
+			<div class="layer" data-scene="3">
+				<h1 class="heading" style="font-style: italic; font-weight: bold;">Enhance Visual Appeal</h1>
+			</div>
+			<div class="layer" data-scene="4">
+				<h1 class="heading" style="font-style: italic; font-weight: bold;">Leverage Short-Form Videos</h1>
+			</div>
+			<div class="layer" data-scene="5">
+				<h1 class="heading" style="font-style: italic; font-weight: bold;">Foster Engagement and Community</h1>
+			</div>
+			<nav class="slide-nav">
+				<div class="button-container">
+					<button class="nav-button">&lt;Previous</button>
+					<button class="nav-button">Next&gt;</button>
+				</div>
+				<div class="nav-button-container">
+					<label class="nav-button" for="scene-1" data-scene="1">1</label>
+					<label class="nav-button" for="scene-2" data-scene="2">2</label>
+					<label class="nav-button" for="scene-3" data-scene="3">3</label>
+					<label class="nav-button" for="scene-4" data-scene="4">4</label>
+				</div>
+			</nav>
+		</div>
+		<div class="right-content">
+			<div class="layer" data-scene="1">
+				<h2 class="heading bg-dark">Step 1</h2>
+				<p class="paragraph">We start by identifying the core themes for your posts, such as product highlights, behind-the-scenes moments, 
+					customer success stories, and educational content. These themes ensure your messaging aligns with your brand's goals.</p>
+			</div>
+			<div class="layer" data-scene="2">
+				<h2 class="heading bg-dark">Step 2</h2>
+				<p class="paragraph">Next, we analyze your audience’s interests and preferences to create content that truly resonates. Tailoring 
+					your messaging to their needs enhances connection and relevance.
+				</p>
+			</div>
+			<div class="layer" data-scene="3">
+				<h2 class="heading bg-dark">Step 3</h2>
+				<p class="paragraph">In this step, we prioritize high-quality visuals—images, graphics, and videos that reflect your brand's 
+					aesthetics. By incorporating relevant hashtags, your posts gain greater visibility and reach.</p>
+			</div>
+			<div class="layer" data-scene="4">
+				<h2 class="heading bg-dark">Step 4</h2>
+				<p class="paragraph">Engage your audience with short, creative videos that tap into current trends, showcase products, or share quick
+					 tips. Instagram Reels, for instance, can significantly boost visibility through the Explore page.</p>
+			</div>
+			<div class="layer" data-scene="5">
+				<h2 class="heading bg-dark">Step 5</h2>
+				<p class="paragraph">Building trust and loyalty involves active interaction. Responding to comments and direct messages creates a 
+					sense of community. Additionally, using features like polls, quizzes, countdowns, and question stickers boosts engagement and 
+					encourages meaningful conversations with your followers.</p>
+			</div>
+		</div>
+	</main>	
+	<br><br><br><br><br>
+	</div>
+

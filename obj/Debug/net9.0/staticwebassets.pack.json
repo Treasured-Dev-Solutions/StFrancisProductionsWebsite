@@ -1,0 +1,673 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\StFPWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StFPWebsite.zighck2ohf.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\concept.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\concept.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\consulting.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\consulting.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\custon-art.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\custon-art.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\custon-fashion.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\custon-fashion.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\editorial.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\editorial.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\fine-act.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\fine-act.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\installations.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\installations.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\licencing.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\licencing.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\runaway.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\runaway.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\styling.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\styling.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\arts\\technical.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arts\\technical.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\authors\\mda.png",
+      "PackagePath": "staticwebassets\\assets\\img\\authors\\mda.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\authors\\ncube.png",
+      "PackagePath": "staticwebassets\\assets\\img\\authors\\ncube.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\animation-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\animation-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\animation.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\animation.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\arts -hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\arts -hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\arts-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\arts-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\arts.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\arts.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\content-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\content-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\content.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\content.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\film-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\film-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\film.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\film.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\ict-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\ict-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\ict.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\ict.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\publishing-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\publishing-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\publishing.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\publishing.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\robotics-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\robotics-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\robotics.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\robotics.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\training-hover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\training-hover.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\biz-services\\training.png",
+      "PackagePath": "staticwebassets\\assets\\img\\biz-services\\training.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\books\\arola.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\books\\arola.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\books\\book1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\books\\book1.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\books\\book2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\books\\book2.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\books\\book3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\books\\book3.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\books\\freedom.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\books\\freedom.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\content\\socials.png",
+      "PackagePath": "staticwebassets\\assets\\img\\content\\socials.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\eventss\\arola.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\eventss\\arola.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\eventss\\inauguration.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\eventss\\inauguration.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\eventss\\phaphama.png",
+      "PackagePath": "staticwebassets\\assets\\img\\eventss\\phaphama.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\eventss\\silent.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\eventss\\silent.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\film\\post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\film\\post.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\film\\pre.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\film\\pre.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\film\\prodution.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\film\\prodution.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\film\\scripting.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\film\\scripting.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\ict\\ict-page.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ict\\ict-page.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\logos\\stfrancis-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\stfrancis-icon.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\logos\\stfrancis.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\stfrancis.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage10.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage11.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage12.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage4.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage5.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage6.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage7.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage8.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\robotics\\collage9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robotics\\collage9.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\st-events\\arola.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\st-events\\arola.JPG"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\st-events\\inauguration.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\st-events\\inauguration.JPG"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\st-events\\phaphama.png",
+      "PackagePath": "staticwebassets\\assets\\img\\st-events\\phaphama.png"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\st-events\\silent.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\st-events\\silent.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Bra Sthape.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Bra Sthape.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Dineo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Dineo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Ella.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Ella.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Glamini.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Glamini.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\HR.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\HR.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Kamo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Kamo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Kat1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Kat1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Katli.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Katli.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Kenneth.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Kenneth.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Ketha.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Ketha.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Khumo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Khumo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Lakheni.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Lakheni.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Nomvulo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Nomvulo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Reatile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Reatile.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Ritu.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Ritu.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Sheli.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Sheli.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Sonti.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Sonti.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Thapelo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Thapelo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Tisetso.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Tisetso.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\Xoli.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\Xoli.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\img\\team\\psyvhologist.1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\psyvhologist.1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\anim1-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\anim1-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\anim2-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\anim2-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\arts.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\arts.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\background-video.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\background-video.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\content-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\content-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\fashion.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\fashion.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\film-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\film-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\ict-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\ict-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\publishing-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\publishing-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\robotics-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\robotics-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\robotics.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\robotics.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\social-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\social-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\assets\\videos\\training-vid.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\training-vid.mp4"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\css\\events.css",
+      "PackagePath": "staticwebassets\\css\\events.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nkmoy\\OneDrive\\Documents\\StFPWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.StFPWebsite.props",
+      "PackagePath": "build\\StFPWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.StFPWebsite.props",
+      "PackagePath": "buildMultiTargeting\\StFPWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.StFPWebsite.props",
+      "PackagePath": "buildTransitive\\StFPWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

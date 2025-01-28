@@ -1,0 +1,294 @@
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\appsettings.json
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.staticwebassets.runtime.json
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.staticwebassets.endpoints.json
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.exe
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.deps.json
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.runtimeconfig.json
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.dll
+C:\Users\nkmoy\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.pdb
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.AssemblyInfoInputs.cache
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.AssemblyInfo.cs
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.csproj.CoreCompileInputs.cache
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.RazorAssemblyInfo.cache
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.RazorAssemblyInfo.cs
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\bundle\StFPWebsite.styles.css
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\projectbundle\StFPWebsite.bundle.scp.css
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ffe8lpwqhf-61n19gt1b8.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\c561z6iaac-xtxxf3hu2r.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\du64pelz9y-bqjiyaj88i.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\h9vc2hcwad-c2jlpeoesf.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\fghgncp7jm-erw9l3u2r3.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mslc1xn2ju-aexeepp0ev.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\j7zoqi897s-d7shbmvgxk.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vdq68wakyz-ausgxo2sd3.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\r7gc3worvm-k8d9w2qqmf.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\avv34wp0vz-cosvhxvwiu.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2u5mom4f49-ub07r2b239.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\zj9bda9pxl-fvhpjtyr6v.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\bs9gtg1ky9-b7pk76d08c.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mprcpinw9f-fsbi9cje9m.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6bq2v3fe62-rzd6atqjts.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vxy0obvfan-ee0r1s7dh0.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\a11511m22k-dxx9fxp4il.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2p5bshvuxw-jd9uben2k1.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\h6fwabj08q-khv3u5hwcm.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\xfa5c5h3ka-r4e9w2rdcm.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4zvx2oz50h-lcd1t2u6c8.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\i41u0xe07r-c2oey78nd0.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\k4oc68ztt4-tdbxkamptv.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\en41dsj72h-j5mq2jizvt.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mls42ey5yb-06098lyss8.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\xtwfdzq0j6-nvvlpmu67g.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\3r7f9dd0ea-s35ty4nyc5.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\wziw5r22tw-pj5nd1wqec.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4pca6dlkst-46ein0sx1k.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\zdfqco2blu-v0zj4ognzu.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\v1xhdn0m2j-37tfw0ft22.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\hk15swpe2c-hrwsygsryq.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\0dai39pmyi-pk9g2wxc8p.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\kujk3ndv72-ft3s53vfgj.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2mshz2csbi-6cfz1n2cew.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\r9drpdqdwx-6pdc2jztkx.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\jgfonarinx-493y06b0oq.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vucanv61qm-iovd86k7lj.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4cd4uohoqp-vr1egmr9el.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\bx1zgxbk3l-kbrnm935zg.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\m5xys41gue-jj8uyg4cgr.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qffz6yozqm-y7v9cxd14o.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ptuhs96r8n-notf2xhcfb.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\dsph5quqkb-h1s4sie4z3.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\n2m57vmdkp-63fj8s7r0e.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qihpp42ohs-0j3bgjxly4.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\sez35wypdy-47otxtyo56.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6pvjsak6pl-4v8eqarkd7.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\fowiasi5gq-356vix0kms.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ma08ntr2kk-83jwlth58m.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\3iayj6sne1-mrlpezrjn3.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qvpuwvrulp-lzl9nlhx6b.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\igkg8k84x3-ag7o75518u.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\erl2e4kpae-x0q3zqp4vz.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\7ljpq4ooi9-0i3buxo5is.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\x3ykkxsdup-o1o13a6vjx.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\cl3ne6dwyl-ttgo8qnofa.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\gp98p9k3aw-2z0ns9nrw6.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\uaqhv89qoo-muycvpuwrr.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vxtw6u1gcc-87fc7y1x7t.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2lfdb3supq-mlv21k5csn.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\rxyyk3nfsc-zighck2ohf.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\tgk5gtyivf-zighck2ohf.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.build.StFPWebsite.props
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StFPWebsite.props
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StFPWebsite.props
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.dll
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\refint\StFPWebsite.dll
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.pdb
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.genruntimeconfig.cache
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\ref\StFPWebsite.dll
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6xkiztbhj4-iorir4ytmn.gz
+C:\Users\nkmoy\Documents\StFPWebsite\obj\Debug\net9.0\compressed\8uoj3glld1-2lbq4s8ulo.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\appsettings.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.staticwebassets.runtime.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.staticwebassets.endpoints.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.exe
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.deps.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.runtimeconfig.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.dll
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.pdb
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.AssemblyInfoInputs.cache
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.AssemblyInfo.cs
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.RazorAssemblyInfo.cache
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.RazorAssemblyInfo.cs
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\bundle\StFPWebsite.styles.css
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\projectbundle\StFPWebsite.bundle.scp.css
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ffe8lpwqhf-61n19gt1b8.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\du64pelz9y-bqjiyaj88i.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\h9vc2hcwad-c2jlpeoesf.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\fghgncp7jm-erw9l3u2r3.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mslc1xn2ju-aexeepp0ev.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\j7zoqi897s-d7shbmvgxk.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vdq68wakyz-ausgxo2sd3.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\r7gc3worvm-k8d9w2qqmf.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\avv34wp0vz-cosvhxvwiu.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2u5mom4f49-ub07r2b239.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\zj9bda9pxl-fvhpjtyr6v.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\bs9gtg1ky9-b7pk76d08c.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mprcpinw9f-fsbi9cje9m.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6bq2v3fe62-rzd6atqjts.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vxy0obvfan-ee0r1s7dh0.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\a11511m22k-dxx9fxp4il.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2p5bshvuxw-jd9uben2k1.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\h6fwabj08q-khv3u5hwcm.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\xfa5c5h3ka-r4e9w2rdcm.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4zvx2oz50h-lcd1t2u6c8.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\i41u0xe07r-c2oey78nd0.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\k4oc68ztt4-tdbxkamptv.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\en41dsj72h-j5mq2jizvt.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mls42ey5yb-06098lyss8.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\xtwfdzq0j6-nvvlpmu67g.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\3r7f9dd0ea-s35ty4nyc5.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\wziw5r22tw-pj5nd1wqec.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4pca6dlkst-46ein0sx1k.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\zdfqco2blu-v0zj4ognzu.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\v1xhdn0m2j-37tfw0ft22.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\hk15swpe2c-hrwsygsryq.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\0dai39pmyi-pk9g2wxc8p.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\kujk3ndv72-ft3s53vfgj.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2mshz2csbi-6cfz1n2cew.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\r9drpdqdwx-6pdc2jztkx.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\jgfonarinx-493y06b0oq.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vucanv61qm-iovd86k7lj.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4cd4uohoqp-vr1egmr9el.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\bx1zgxbk3l-kbrnm935zg.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\m5xys41gue-jj8uyg4cgr.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qffz6yozqm-y7v9cxd14o.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ptuhs96r8n-notf2xhcfb.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\dsph5quqkb-h1s4sie4z3.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\n2m57vmdkp-63fj8s7r0e.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qihpp42ohs-0j3bgjxly4.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\sez35wypdy-47otxtyo56.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6pvjsak6pl-4v8eqarkd7.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\fowiasi5gq-356vix0kms.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ma08ntr2kk-83jwlth58m.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\3iayj6sne1-mrlpezrjn3.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qvpuwvrulp-lzl9nlhx6b.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\igkg8k84x3-ag7o75518u.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\erl2e4kpae-x0q3zqp4vz.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\7ljpq4ooi9-0i3buxo5is.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\x3ykkxsdup-o1o13a6vjx.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\cl3ne6dwyl-ttgo8qnofa.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\gp98p9k3aw-2z0ns9nrw6.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\uaqhv89qoo-muycvpuwrr.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vxtw6u1gcc-87fc7y1x7t.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2lfdb3supq-mlv21k5csn.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\rxyyk3nfsc-zighck2ohf.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\tgk5gtyivf-zighck2ohf.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.build.StFPWebsite.props
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StFPWebsite.props
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StFPWebsite.props
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.dll
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\refint\StFPWebsite.dll
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.pdb
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.genruntimeconfig.cache
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\ref\StFPWebsite.dll
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\appsettings.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.staticwebassets.endpoints.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.staticwebassets.runtime.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.exe
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.deps.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.runtimeconfig.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.dll
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\bin\Debug\net9.0\StFPWebsite.pdb
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.AssemblyInfoInputs.cache
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.AssemblyInfo.cs
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.csproj.CoreCompileInputs.cache
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.RazorAssemblyInfo.cache
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.RazorAssemblyInfo.cs
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\bundle\StFPWebsite.styles.css
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\scopedcss\projectbundle\StFPWebsite.bundle.scp.css
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ffe8lpwqhf-61n19gt1b8.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\du64pelz9y-bqjiyaj88i.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\h9vc2hcwad-c2jlpeoesf.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\fghgncp7jm-erw9l3u2r3.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mslc1xn2ju-aexeepp0ev.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\j7zoqi897s-d7shbmvgxk.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vdq68wakyz-ausgxo2sd3.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\r7gc3worvm-k8d9w2qqmf.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\avv34wp0vz-cosvhxvwiu.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2u5mom4f49-ub07r2b239.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\zj9bda9pxl-fvhpjtyr6v.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\bs9gtg1ky9-b7pk76d08c.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mprcpinw9f-fsbi9cje9m.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6bq2v3fe62-rzd6atqjts.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vxy0obvfan-ee0r1s7dh0.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\a11511m22k-dxx9fxp4il.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2p5bshvuxw-jd9uben2k1.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\h6fwabj08q-khv3u5hwcm.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\xfa5c5h3ka-r4e9w2rdcm.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4zvx2oz50h-lcd1t2u6c8.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\i41u0xe07r-c2oey78nd0.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\k4oc68ztt4-tdbxkamptv.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\en41dsj72h-j5mq2jizvt.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\mls42ey5yb-06098lyss8.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\xtwfdzq0j6-nvvlpmu67g.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\3r7f9dd0ea-s35ty4nyc5.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\wziw5r22tw-pj5nd1wqec.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4pca6dlkst-46ein0sx1k.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\zdfqco2blu-v0zj4ognzu.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\v1xhdn0m2j-37tfw0ft22.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\hk15swpe2c-hrwsygsryq.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\0dai39pmyi-pk9g2wxc8p.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\kujk3ndv72-ft3s53vfgj.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2mshz2csbi-6cfz1n2cew.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\r9drpdqdwx-6pdc2jztkx.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\jgfonarinx-493y06b0oq.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vucanv61qm-iovd86k7lj.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\4cd4uohoqp-vr1egmr9el.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\bx1zgxbk3l-kbrnm935zg.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\m5xys41gue-jj8uyg4cgr.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qffz6yozqm-y7v9cxd14o.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ptuhs96r8n-notf2xhcfb.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\dsph5quqkb-h1s4sie4z3.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\n2m57vmdkp-63fj8s7r0e.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qihpp42ohs-0j3bgjxly4.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\sez35wypdy-47otxtyo56.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6pvjsak6pl-4v8eqarkd7.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\fowiasi5gq-356vix0kms.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\ma08ntr2kk-83jwlth58m.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\3iayj6sne1-mrlpezrjn3.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\qvpuwvrulp-lzl9nlhx6b.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\igkg8k84x3-ag7o75518u.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\erl2e4kpae-x0q3zqp4vz.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\7ljpq4ooi9-0i3buxo5is.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\x3ykkxsdup-o1o13a6vjx.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\cl3ne6dwyl-ttgo8qnofa.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\gp98p9k3aw-2z0ns9nrw6.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\uaqhv89qoo-muycvpuwrr.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\vxtw6u1gcc-87fc7y1x7t.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\2lfdb3supq-mlv21k5csn.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\rxyyk3nfsc-zighck2ohf.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\tgk5gtyivf-zighck2ohf.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.StFPWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.build.StFPWebsite.props
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StFPWebsite.props
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StFPWebsite.props
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.dll
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\refint\StFPWebsite.dll
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.pdb
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\StFPWebsite.genruntimeconfig.cache
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\ref\StFPWebsite.dll
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\8uoj3glld1-ftya65q70r.gz
+C:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\c561z6iaac-p5r80r3xsc.gz
+c:\Users\nkmoy\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6xkiztbhj4-xil251v6zr.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\8uoj3glld1-ftya65q70r.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\6xkiztbhj4-xil251v6zr.gz
+C:\Users\Nomvula Moyana\OneDrive\Documents\StFPWebsite\obj\Debug\net9.0\compressed\c561z6iaac-p5r80r3xsc.gz

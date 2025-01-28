@@ -1,0 +1,74 @@
+@{
+    ViewData["Title"] = "Animation";
+}
+<div class="row gx-0">
+        <div class="col icttext-overlay" style="background-color: #1c1c1dfe;">
+            <div>
+                <br><br><br>
+                <h1 style="font-weight: bolder; font-style: italic; text-decoration: underline; text-decoration-color: #fffe07;">3D ANIMATION</h1>
+                <p style="color: white; font-weight: bold;">Captivate your audience with breathtaking visuals and immersive storytelling. <br>
+                    Our 3D animation services turn your ideas into dynamic, lifelike experiences. 
+                    Whether <br>it's a promotional video, architectural visualization, game design, <br>
+                    or a cinematic masterpiece, we craft animations that inspire and engage.</p>
+                <br>
+            </div>
+            <div>
+                <a href="@Url.Action("Index", "Home")#contact"  class="btn btn-one" style="text-decoration: none;outline: none; border: none;">
+                    <span style="color: #fffe07;">Set an Appointment</span>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="anim-video-container">
+                <video autoplay muted loop id="ict-bgvideo">
+                    <source src="assets/videos/anim1-vid.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+    </div>
+
+    <div class="row bg-dark">       
+        <div class="col-md-3 style">
+            <div class="anima-video-container">
+                <video autoplay muted loop id="ict-bgvideo">
+                    <source src="assets/videos/anim2-vid.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div>
+                <div class="anim-container">
+                    <p class="container-title text-white">Here Are The Features We’re Proud Of:</p>
+                  
+                    <div class="gradient-cards">
+                      <div class="card bg-dark">
+                        <div class="anim-container-card bg-green-box text-center">
+                          <p class="card-title">CUSTOMIZED DESIGNS</p>
+                          <p class="card-description">Tailored to your brand and vision.</p>
+                        </div>
+                      </div>
+                  
+                      <div class="card bg-dark">
+                        <div class="anim-container-card bg-white-box text-center">
+                          <p class="card-title">CUTTING-EDGE TECHNOLOGY</p>
+                          <p class="card-description">Industry-leading tools for unparalleled quality.</p>
+                        </div>
+                      </div>
+                  
+                      <div class="card bg-dark">
+                        <div class="anim-container-card bg-blue-box text-center">
+                          <p class="card-title">ENGAGING STORYTELLING</p>
+                          <p class="card-description">Transforming concepts into unforgettable moments.</p>
+                        </div>
+                      </div>
+                  
+                      <div class="card bg-dark">
+                        <div class="anim-container-card bg-blue-box text-center">
+                          <p class="card-title">STEP INTO THE FUTURE</p>
+                          <p class="card-description">Let’s animate your ideas—contact us today to get started!</p>
+                        </div>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>

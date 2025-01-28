@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - StFPWebsite</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/StFPWebsite.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-nav">
+        <div class="container">
+            <a class="navbar-brand" href="#home">
+                <img src="assets/img/logos/stfrancis.png" alt="Company Logo" style="height: 60px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="@Url.Action("Index", "Home")#home" style="font-weight: bold;">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="@Url.Action("Index", "Home")#about" style="font-weight: bold;">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="@Url.Action("Index", "Home")#team" style="font-weight: bold;">Meet the Team</a></li>
+                    <li class="nav-item"><a class="nav-link" href="@Url.Action("Index", "Home")#services" style="font-weight: bold;">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Eventss" asp-action="Index" style="font-weight: bold;">Events</a></li>
+                    <li class="nav-item"><a class="nav-link" href="@Url.Action("Index", "Home")#contact" style="font-weight: bold;">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="~/bookstore.html" style="font-weight: bold;">Store</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <div class="container-fluid" style="margin: 0; padding: 0;">
+        <main role="main" class="pb-3 container-fluid" style="margin: 0; padding: 0;">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted bg-dark">
+        <div class="container">
+            &copy; Developed by Nomvula Moyana, Reatile Motjolela, Katleho Mohlomi, Dumisani Dhlamini, Craig Baloyi - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
